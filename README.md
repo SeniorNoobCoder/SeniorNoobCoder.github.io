@@ -1,3 +1,4 @@
-## Welcome to [my world](SeniorNoobCoder.github.io).
+## Welcome to my world
 
-### 刘鹏的博客
+### [刘鹏的博客](SeniorNoobCoder.github.io).
+
