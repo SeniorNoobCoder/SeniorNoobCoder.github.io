@@ -1,3 +1,3 @@
-## Welcome to [SeniorNoobCoder.github.io][example link].
+## Welcome to [my world](SeniorNoobCoder.github.io).
 
 ### 刘鹏的博客
